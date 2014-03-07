@@ -1,5 +1,5 @@
 # dynamic-script
-###### A demo project which loads dynamic initialization data via a script tag in the static index.html file before any javascript has initialized.
+###### A demo AngularJS project which loads dynamic initialization data via a script tag in the static index.html file before any javascript has initialized.
 
 /api/user.js returns a dummy script after a 1 second delay, mimicking a slow call to an external api server.
 
