@@ -1,0 +1,14 @@
+{
+  "name": "dynamic-script",
+  "repo": "dynamic-script",
+  "version": "0.0.0",
+  "main": "_public/js/app.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "angular": "1.2.5"
+  }
+}

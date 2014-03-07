@@ -1,0 +1,22 @@
+{
+  "name": "dynamic-script",
+  "version": "0.0.0",
+  "description": "Demo of dynamic content loaded from static html script tag (e.g. initial API call for user session/data)",
+  "scripts": {
+    "start": "./node_modules/.bin/brunch watch --server"
+  },
+  "author": "Jacob Frautschi",
+  "license": "All rights reserved",
+  "private": true,
+  "dependencies": {
+    "express": "~3",
+    "bower": "~1.0",
+    "coffee-script": "~1",
+    "brunch": "~1.7",
+    "css-brunch": "~1.7",
+    "less-brunch": "~1.7",
+    "stylus-brunch": "~1.8",
+    "javascript-brunch": "~1.7",
+    "coffee-script-brunch": "~1.8"
+  }
+}
