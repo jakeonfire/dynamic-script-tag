@@ -11,6 +11,7 @@ exports.config =
     javascripts:
       joinTo:
         'js/app.js': /^app\//
+        'js/vendor.js': /^bower_components\//
 
     stylesheets:
       joinTo:
